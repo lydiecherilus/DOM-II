@@ -116,7 +116,6 @@ introElement.addEventListener('click', event => {
     event.stopPropagation();
 })
 
-
 // -----------------------------------------------
 // create bus image in navbar for future animation
 const navElement = document.querySelector('nav');
